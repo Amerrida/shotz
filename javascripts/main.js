@@ -1,0 +1,4 @@
+const initializeApp = () => {
+
+};
+initializeApp();
