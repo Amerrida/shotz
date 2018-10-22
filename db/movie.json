@@ -1,0 +1,9 @@
+{
+	"movie": [{
+		"image": ".images/AWrinkleinTime600x889.jpeg",
+		"name": "A Wrinkle In Time.",
+		"genre": "sci-fi adventure",
+		"release": "Febuary 2018",
+		"description": "Meg Murry and her little brother, Charles Wallace, have been without their scientist father, Mr. Murry, for five years, ever since he discovered a new planet and used the concept known as a tesseract to travel there. Joined by Meg's classmate Calvin O'Keefe and guided by the three mysterious astral travelers known as Mrs. Whatsit, Mrs. Who and Mrs. Which, the children brave a dangerous journey to a planet that possesses all of the evil in the universe."
+	}]
+}

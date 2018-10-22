@@ -1,0 +1,28 @@
+{
+	"locations": [{
+			"locationImage": "https://farm3.staticflickr.com/2584/13095347675_6d20ca8337_b.jpg",
+			"name": "Morning Sunset",
+			"locationAddress": "Tongariro National Park, New Zealand 0991",
+			"shootTime": "Morning"
+		},
+		{
+			"locationImage": "https://adventure.com/wp-content/uploads/2017/11/New-Zealand-Dark-Sky-Sanctuary-GBI-Dark-Sky-Mark-Russell-4-1048x1570.jpg",
+			"name": "Great Barrier Island, New Zealand",
+			"locationAddress": "Great Barrier Island, New Zealand 0991",
+			"shootTime": "After Dark"
+		},
+		{
+			"locationImage": "https://www.thehotelguru.com/_images/e6/3a/e63ac1a08750072aad8a892b51e37511/south-island-s1180x560.jpg",
+			"name": "South Island New Zealand",
+			"locationAddress": "South Island, New Zealand 0992",
+			"shootTime": "Evening"
+		},
+		{
+			"locationImage": "http://stillwaterdwellings.com/wp-content/uploads/2012/04/stillwater-dwellings-modular-homes-california-prefab.jpg",
+			"name": "Family Home",
+			"locationAddress": "1419 Westhome Blvd, Los Angeles, CA 90021",
+			"shootTime": "Afternoon"
+		}
+
+	]
+}
