@@ -7,7 +7,7 @@ const movieBuilder = (arrayOfMovie)=>{
                         <div class="card-body">
                             <p class="card-text">Summary: ${movie.description}</p>
                             <h7 class="card-title">Genre: ${movie.genre}</h7>
-                            <h7 class="card-title">Release Date: ${movie.releaseDate}</h7>
+                            <h7 class="card-title">Release Date: ${movie.release}</h7>
                         </div>
                     </div>`;
                 });

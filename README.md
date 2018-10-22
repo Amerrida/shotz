@@ -5,7 +5,7 @@ As a user, I want to keep track of all the shooting locations for my soon to be 
 
 
 ## Screenshots
-![main screenshot](/images/AWrinkleinTime600x889.jpeg)
+![main screenshot](images/AWrinkleinTime600x889.jpeg)
 
 ## How to run this project
 
