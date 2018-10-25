@@ -11,8 +11,9 @@ const searchBar = ()=>{
       });
     }
     
+    
     const buttonElem = ()=>{
-    $(".time").on('click', (e)=>{
+    $(".btn").on('click', (e)=>{
         const element= $(event.target).text().toLowerCase();
         $(".shoot-time").each(function(){
               if($(this).text().toLowerCase().includes(element) == true) {
@@ -24,8 +25,11 @@ const searchBar = ()=>{
         })
     }
     
-    $("#all").on('click', (e)=>{
-        $('.loc').show();
-    })
-    
-    export{searchBar, buttonElem};
+    const showAllBtn = () => {
+        $("#all").on('click', (e)=>{
+            
+            $('.loc').show();
+        });
+    }
+
+    export{searchBar, buttonElem,showAllBtn};

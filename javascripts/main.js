@@ -1,4 +1,4 @@
-import { searchBar, buttonElem } from "./events.js";
+import { searchBar, buttonElem, showAllBtn} from "./events.js";
 import { displayMovie } from "./data/movieData.js";
 import { displayLocations } from "./data/locationsData.js";
 
@@ -7,5 +7,7 @@ const initializeApp = ()=>{
     displayLocations();
     searchBar();
     buttonElem();
+    showAllBtn();
+
 }
 initializeApp();
